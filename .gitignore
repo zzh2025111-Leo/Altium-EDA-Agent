@@ -1,0 +1,11 @@
+# Altium local history and previews
+History/
+__Previews/
+*.~(?)*
+*.Zip
+*.PrjScrStructure
+
+# User-specific / backup files
+*.bak
+*.tmp
+*.log
